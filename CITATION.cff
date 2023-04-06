@@ -11,9 +11,11 @@ authors:
   - given-names: Rachel
     family-names: Lawrence
     email: rachel_lawrence@berkeley.edu
-    name-particle: Rachel
     affiliation: UC Berkeley
 repository-code: 'https://github.com/RachelLawrence/MinRank3'
 abstract: >-
   Algebra assistant for slack variables in minimum rank 3
   hardness proof.
+license: MIT
+commit: c90b5c48bd88c708445a9c575c444bcd6fec8467
+date-released: '2023-04-06'
